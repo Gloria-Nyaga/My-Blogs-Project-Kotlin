@@ -1,4 +1,4 @@
-package com.akirachix.my_blogs_project
+package com.akirachix.myblogsproject
 
 data class Blog(
     var author:String,
@@ -6,7 +6,6 @@ data class Blog(
     var title: String,
     var publishingDate: String,
     var articlePreview: String,
-    var articlePhoto:String,
     var link:String
 
 )
