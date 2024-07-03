@@ -5,10 +5,9 @@
     android:id="@+id/cvBlog"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    app:cardBackgroundColor="@color/white"
+    app:cardBackgroundColor="#C3C0CB"
     app:cardCornerRadius="8dp"
     android:layout_margin="16dp"
-    android:outlineAmbientShadowColor="@color/black"
     android:layout_marginRight="5dp"
 
     >
